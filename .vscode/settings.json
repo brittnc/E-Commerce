@@ -1,0 +1,25 @@
+{
+    "cSpell.words": ["JAWSDB"],
+    "peacock.color": "#4e4617",
+    "workbench.editor.decorations.colors": false,
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#756923",
+      "activityBar.activeBorder": "#0f312c",
+      "activityBar.background": "#756923",
+      "activityBar.foreground": "#e7e7e7",
+      "activityBar.inactiveForeground": "#e7e7e799",
+      "activityBarBadge.background": "#0f312c",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "sash.hoverBorder": "#756923",
+      "statusBar.background": "#4e4617",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#756923",
+      "statusBarItem.remoteBackground": "#4e4617",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "titleBar.activeBackground": "#4e4617",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#4e461799",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    }
+  }
